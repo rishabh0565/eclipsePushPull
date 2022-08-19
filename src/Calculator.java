@@ -22,5 +22,8 @@ public class Calculator {
      public double div () {
      	return a/b ;  
       }
+     public double percentage() {
+    	 return a/b*100;
+     }
      
  }

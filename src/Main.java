@@ -5,5 +5,8 @@ public class Main {
 	   System.out.println(c.div());
 	   
 	   System.out.println(c.mul());
+	   
+	   System.out.println(c.sub());
+	   System.out.println(c.sum());
 	}
 }
